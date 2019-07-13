@@ -4,3 +4,5 @@ Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Twitter、Tumblr、Facebo
 Flickr、imgur、Instagram、Behance、DuckDuckGo、Ixquick、Yahoo、Google 
 Services、Google apis、Android、Youtube、Google Drive、UpLoad、Appspot、
 Googl eusercontent、Gstatic、Gmail、Google other、Google Play等hosts。
+=========
+这是测试，想看下git diff命令是什么效果，谢谢大家
